@@ -31,10 +31,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=radical&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-## 📫 Contact Information
-I'm always open to discussing potential opportunities, collaborating on exciting projects, or simply sharing knowledge. Feel free to reach out to me via email at:
-
-**📧 [rahmanefazwasifur@gmail.com](mailto:rahmanefazwasifur@gmail.com)**
 
 ---
 
@@ -42,5 +38,9 @@ I'm always open to discussing potential opportunities, collaborating on exciting
 Explore my repositories to see some of the exciting projects I've been working on. I'm passionate about leveraging technology to solve real-world problems and am always eager to learn and grow. Let's connect and create something extraordinary!
 
 ---
+## 📫 Contact Information
+I'm always open to discussing potential opportunities, collaborating on exciting projects, or simply sharing knowledge. Feel free to reach out to me via email at:
 
-**[LinkedIn](www.linkedin.com/in/wasifur-rahman-efaz)** | **[Portfolio](#)** | **[Twitter](https://www.instagram.com/_.efaz._)**
+**📧 [rahmanefazwasifur@gmail.com](mailto:rahmanefazwasifur@gmail.com)**
+
+ **[Portfolio](#)**
