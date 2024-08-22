@@ -10,11 +10,22 @@
 </div> 
 
 ---
+
 [![wakatime](https://wakatime.com/badge/user/018e9584-7169-4db4-aad5-e38d7dd27d26.svg)](https://wakatime.com/@018e9584-7169-4db4-aad5-e38d7dd27d26)
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=efaaz&label=Profile%20views&color=0e75b6&style=flat" alt="efaaz" /> </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efaaz&layout=compact&theme=radical)
----
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=efaaz&theme=monokai&hide_border=false&include_all_commits=true&border_radius=23"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=efaaz&theme=gruvbox_light&hide_border=false&include_all_commits=true&border_radius=23"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efaaz&theme=vue-dark&hide_border=false&include_all_commits=true&border_radius=23" />
+</picture>
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=radical&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
