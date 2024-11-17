@@ -27,10 +27,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=efaaz&theme=vue-dark&hide_border=false&include_all_commits=true&border_radius=23" />
 </picture>
 
----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=radical&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
----
-
 
 ---
 
