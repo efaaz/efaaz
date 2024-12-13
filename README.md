@@ -39,4 +39,4 @@ I'm always open to discussing potential opportunities, collaborating on exciting
 
 **📧 [rahmanefazwasifur@gmail.com](mailto:rahmanefazwasifur@gmail.com)**
 
- **[Portfolio](#)**
+ **[My Resume](https://drive.google.com/file/d/1cvTsJNmENSoxB760b9fsgH2iEMQE99co/view?usp=sharing)**
