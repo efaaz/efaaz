@@ -27,6 +27,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=efaaz&theme=vue-dark&hide_border=false&include_all_commits=true&border_radius=23" />
 </picture>
 
+### 📈 GitHub Activity Graph:
+[![Nafiul Github Activity Graph (Light Theme)](https://github-readme-activity-graph.vercel.app/graph?username=efaaz&bg_color=000033&color=ADD8E6&line=1E90FF&point=87CEEB&area=true&hide_border=true)](#gh-dark-mode-only)
+
+
 
 ---
 
